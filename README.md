@@ -22,17 +22,10 @@ When any of the id is clicked, it gives a detailed view of the contents from "ht
 
 
 <br/>
-Now, when the photos button is clicked from the above image,  it has to navigate to a UICollectionViewController to display the thumbnails from the url "http://jsonplaceholder.typicode.com/photos"
+Now, when the photos button is clicked from the above image, it navigates to the next display page as below:
 <br/>
 <br/>
 <br/>
-![alt tag] (https://lh6.googleusercontent.com/-_jFcTT_m9vs/VhjsKxRbwQI/AAAAAAAAAHQ/F04yycbEucs/w638-h591-no/Screen%2BShot%2B2015-10-10%2Bat%2B10.11.42%2Bpm.png)
-<br/>
-<br/>
-<br/>
-But unfortunately, it encountered errors and could not display the images in collectionview format. <br/>
-When it was tested with UITableView, it responded positively by retrieving the content from the url.
-
 ![alt tag] (https://lh5.googleusercontent.com/-37t2-wd_Id4/VhjsQfNQSsI/AAAAAAAAAH0/cizrc38TbcA/w377-h688-no/Screen%2BShot%2B2015-10-10%2Bat%2B10.13.01%2Bpm.png)
 
 
